@@ -1,0 +1,8 @@
+  [
+	{
+		"remote":"github",
+		"repository":"zadli/RecoveryKernel",
+		"target_path":"kernel/samsung/universal7880",
+		"revision":"lineage-17.1"
+	}
+]
